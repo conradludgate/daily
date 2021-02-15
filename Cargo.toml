@@ -1,0 +1,5 @@
+[package]
+name = "daily"
+version = "0.1.0"
+authors = ["Conrad Ludgate <conradludgate@gmail.com>"]
+edition = "2018"
